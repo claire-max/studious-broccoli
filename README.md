@@ -29,7 +29,8 @@
   3. Now you are ready to use!
 
   ## Usage
-  This command-line application dynamically generates a README.md from a user's input. The application will be invoked with the following command:   ```md node index.js``` You will be taken through a series of prompts. Answer them in as much detail as possible. Then A READme file is generated. ![alt text](./assets/images/screenshot.png)
+  This command-line application dynamically generates a README.md from a user's input. The application will be invoked with the following command:   ```md node index.js``` You will be taken through a series of prompts. Answer them in as much detail as possible. Then A READme file is generated. 
+     ![alt text](./assets/images/screenshot.png)
 
   ## How to Contribute
   [Contributor Information](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)  
