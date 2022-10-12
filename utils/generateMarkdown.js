@@ -104,7 +104,7 @@ function generateMarkdown(data) {
   ${data.usage}
 
   ## How to Contribute
-  [Contributor Covenant](https://www.contributor-covenant.org/)  
+  [Contributor Information](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)  
   ${data.contributing}
 
   ## Tests
